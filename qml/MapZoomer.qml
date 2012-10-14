@@ -1,24 +1,26 @@
-///////////////////////////////////////////////////////////////////////////////
-//  This document created by:
-//  CyberData Corporation
-//  1327 South Puget Drive, #F24
-//  Renton WA 98055
-//  +1 (206) 715-7628
-//  Lloyd@CyberData-Robotics.com
-//
-//  Spatial Minds, LLC
-//  304 E. Highland Ave
-//  Mount Vernon, WA 98273
-//  +1 (206) 962-7754
-//  craig.miller@spatialminds.com
-//
-//  Copyright (c) 2012, CyberData Corporation
-//  Copyright (c) 2012, Spatial Minds, LLC
-//  All Rights Reserved
-//
-//  CONFIDENTIAL AND PROPRIETARY INFORMATION
-//  WHICH IS THE PROPERTY OF CyberData Corporation and Spatial Minds, LLC
-////////////////////////////////////////////////////////////////////////////////
+/*
+   Locomaps - Locomaps is touchscreen tablet application for browsing the maps,
+   satellite data, and terrain data available from Nokia's Mapping Services.
+
+   © Copyright 2012 Spatial Minds, LLC. All Rights Reserved.
+     craig.miller@spatialminds.com
+
+   © Copyright 2012 CyberData Corporation. All Rights Reserved.
+     lloyd@cyberdata-robotics.com
+  
+   This program is free software: you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation, either version 3 of the License, or
+   (at your option) any later version.
+  
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+  
+   You should have received a copy of the GNU General Public License
+   along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
 
 /*!
   Zoom Control QML Component
