@@ -1,6 +1,6 @@
 Simple sample application demonstrating how to create a flickable map using the QtMobility APIs and Qt Quick.
 
-To build, you'll need the Qt SDK, including the Qt Mobility APIs, and Qt
+To build, you'll need the Qt SDK (4.8), including the Qt Mobility APIs, and Qt
 Creator.
 Open the locomaps.pro file with QtCreateor and build.
 Locomaps - Locomaps is touchscreen tablet application for browsing the maps,
