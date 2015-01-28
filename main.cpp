@@ -3,10 +3,8 @@
    satellite data, and terrain data available from Nokia's Mapping Services.
 
    © Copyright 2012 Spatial Minds, LLC. All Rights Reserved.
-     craig.miller@spatialminds.com
 
    © Copyright 2012 CyberData Corporation. All Rights Reserved.
-     lloyd@cyberdata-robotics.com
   
    This program is free software: you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
